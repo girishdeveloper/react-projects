@@ -1,0 +1,13 @@
+yes= number of players = 2
+yes= each player identified by name and symbol
+yes= name will be entered by the players before the game. 
+no = once the game has started, player names won`t be edited before the game is completed.
+no = players are selected and deselected alternately; only one at a time. 
+no = game board should be 3x3
+no = each attempt should be stored in a game board matrix using player symbols.
+no = pre-calculated outcome is stored in a matrix
+no = after each turn, next active player is selected.
+no = after each turn, the matrix is evaluated to check game over or a tie.
+no = a total of 9 turns are allowed; after which, if neither of the players achieve win then, the game is declared draw.
+no = a reset button is needed for starting a new match after the result is shown. 
+no = the results what-so-ever it be, should be shown in a dialog box. 
